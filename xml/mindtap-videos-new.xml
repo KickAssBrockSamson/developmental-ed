@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+	<tab title="Videos Catalog">
+	    <video>
+	        <title>Welcome to MindTap</title>
+			<desc>Welcome to MindTap: the Personalized Teaching Experience</desc>
+		 <time></time>
+	        <img>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_WhatIsMindTap.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/WhatIsMindTap-640x360.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/WhatIsMindTap-640x360.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_WhatIsMindTap.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_WhatIsMindTap.clean.txt</txt>
+	    </video>
+	    <video>
+	        <title>MindTap Mobile App</title>
+			<desc>With the MindTap mobile app, students can prepare for their course with anytime, anywhere access to many of MindTap's study and organizational tools, right from their phone!</desc>
+		 <time></time>   
+	        <youtube>https://www.youtube.com/watch?v=0ssYQdsAg78</youtube>
+	    </video>
+		  <video>
+	        <title>Attend a Summit</title>
+	        <desc></desc>
+		 <time></time>
+	        <img>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_cengagesummit.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_cengagesummit.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_cengagesummit.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_cengagesummit.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_cengagesummit.clean.txt</txt>
+	    </video>
+		  <video>
+	        <title>Student Perspective</title>
+	        <desc></desc>
+		 <time></time>
+	        <img>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_johnheard.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_johnheard.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_johnheard.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_johnheard.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mt_johnheard.clean.txt</txt>
+	    </video>
+		  <video>
+	        <title>Student Perspective</title>
+	        <desc>Student Holly Feini finds MindTap innovative and geared to learning.</desc>
+		 <time></time>
+	        <img>http://wowzahttp.cengage.com/cengagemarketing/tpumindtap2/tpumindtap2_2.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/tpumindtap2/tpumindtap2.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/tpumindtap2/tpumindtap2.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/tpumindtap2/tpumindtap2.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/tpumindtap2/tpumindtap2.clean.txt</txt>
+	    </video>
+	    <video>
+	        <title>Instructor Perspective</title>
+			<desc>Dr. Carey Roberts sees improvement in every measure of student progress.</desc>
+		 <time></time>
+	        <img>http://wowzahttp.cengage.com/cengagemarketing/mindtap/InstructorPerspective.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/instructor-testimonial-CareyRoberts-640x360.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/instructor-testimonial-CareyRoberts-640x360.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_instructor-testimonial-CareyRoberts-640x360.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_instructor-testimonial-CareyRoberts-640x360.clean.txt</txt>
+	    </video>
+		 <video>
+	        <title>Personalize Teaching</title>
+			<desc>Rename, reorder, and remove MindTap content to make your course uniquely your own.</desc>
+		 <time></time>
+	        <img>http://www.cengagesites.com/academic/assets/sites/5232/images/PersonalizedLearning-640x360_1.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/PersonalizedLearning-640x360.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/PersonalizedLearning-640x360.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_PersonalizedLearning.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_PersonalizedLearning.clean.txt</txt>
+	    </video>
+		 <video>
+	        <title>Elevate Thinking</title>
+			<desc>Videos, quizzes, activities, and more reinforce readings and foster comprehension.</desc>
+		 <time></time>
+	        <img>http://www.cengagesites.com/academic/assets/sites/5232/images/StructurePedagogy-640x360_1.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/StructurePedagogy-640x360.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/StructurePedagogy-640x360.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT-LearningPathEngagement.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT-LearningPathEngagement.clean.txt</txt>
+	    </video>
+		 <video>
+	        <title>Stay Organized and Efficient</title>
+			<desc>Interactive, time-saving, and engaging apps enrich the learning path for all students.</desc>
+		 <time></time>
+	        <img>http://www.cengagesites.com/academic/assets/sites/5232/images/MindApps-640x360_1.jpg</img>
+	        <mp4>http://wowzahttp.cengage.com/cengagemarketing/MindApps-640x360.mp4</mp4>
+	        <webm>http://wowzahttp.cengage.com/cengagemarketing/MindApps-640x360.webm</webm>
+	        <srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_YourCoursePoweredByMindApps.srt</srt>
+	        <txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/MT_YourCoursePoweredByMindApps.clean.txt</txt>
+	    </video>
+		<video>
+	        <title>MindTap at RIT</title>
+			<desc>MindTap helps instructors transform today's students into critical thinkers.</desc>
+		 <time></time>
+	        <img>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mindtap_rit.jpg</img> 
+			<mp4>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mindtap_rit.mp4</mp4> 
+			<webm>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mindtap_rit.webm</webm> 
+			<srt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mindtap_rit.srt</srt> 
+			<txt>http://wowzahttp.cengage.com/cengagemarketing/mindtap/mindtap_rit.clean.txt</txt>
+	    </video>
+	</tab>
+</tabs>
